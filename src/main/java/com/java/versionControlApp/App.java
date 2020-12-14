@@ -6,6 +6,9 @@ public class App {
 		if(data.equalsIgnoreCase(Constants.DATA_TYPE))
 		System.out.println("Wlcome");
 	}
+	public void addedMethod() {
+		System.out.println("Wlcome");
+	}
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 	}
